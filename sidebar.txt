@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iar:home|Door43 (iar)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iar|d43-iar repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iar/archive/master.zip|d43-iar.zip]]
+
+**Recent Changes**
+{{changes>ns = iar}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iar|Ethnologue data]]
+
